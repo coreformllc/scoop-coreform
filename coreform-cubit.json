@@ -1,0 +1,10 @@
+{
+	"version": "2013.3",
+	"url": "https://f002.backblazeb2.com/file/cubit-downloads/Releases/Windows/Coreform-Cubit-2021.3.0.exe",
+	"hash": "ea6aae60b3789e154a953f53dab3691ae50946373d4e2ad1d33876821f5a4d3d",
+	"bin": "Coreform-Cubit.exe",
+	"installer": {
+		"args": [ "/S" ]
+	},
+	"uninstaller": { "file": "uninstall.exe"}
+}
